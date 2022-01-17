@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, i'm Vincent Peter 👋
 
-<!--
-**catalyxt/catalyxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### I'm a web, mobile and software developer.
+
+
+- 🔭 I’m currently working on mobileclass
+- 🌱 I’m currently learning cyber security
+- 👯 I’m looking to collaborate with other developers
+- 🤔 I’m looking for help with building my career
+- 💬 Ask me about anything
+- 📫 How to reach me: <a href="https://linktr.ee/vcpeter">here</a>
+
+- ⚡ Fun fact: i love football
+
