@@ -1,4 +1,4 @@
-### Hi there, i'm Vincent Peter 👋
+### Hi there, i'm Vincent Chukwuebuka 👋
 
 - 🔭 I’m currently open for jobs...
 - 🌱 I’m a ReactJS developer
